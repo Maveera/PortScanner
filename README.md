@@ -7,11 +7,9 @@ The Python Port Scanner is a versatile script that can help you discover open po
 ## How to Use:
 Download the Script: First, make sure you have Python installed on your system. If not, download and install it from the official Python website (https://www.python.org/downloads/). 
 ### Steps :
-1. git clone https://github.com/Maveera/Email-scarper.git
+1. 1. git clone https://github.com/Maveera/Email-scarper.git
 2. cd Email-scarper
 3. Run the code : python3 Email-scarper.py
-4. If Shows any error 
-5. install needed libraries
 
 #### Run the Script: 
 Open your terminal or command prompt and navigate to the directory where the script is located. To run the script, use the `python`
