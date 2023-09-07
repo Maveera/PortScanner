@@ -6,12 +6,11 @@ The Python Port Scanner is a versatile script that can help you discover open po
 
 ## How to Use:
 Download the Script: First, make sure you have Python installed on your system. If not, download and install it from the official Python website (https://www.python.org/downloads/). 
-## 
-git clone https://github.com/Maveera/PortScanner.git
-cd PortScanner
 
+`git clone https://github.com/Maveera/PortScanner.git`
+`cd PortScanner`
+`python3 PortScanner.py`
 #### Run the Script: 
-Open your terminal or command prompt and navigate to the directory where the script is located. To run the script, use the `python
-python3 PortScanner.py
+Open your terminal or command prompt and navigate to the directory where the script is located. To run the script, use the `python`
 
 ### Happy Hacking
